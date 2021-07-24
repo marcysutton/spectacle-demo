@@ -1,6 +1,6 @@
-# Building a More Inclusive Pinterest with Frontend Accessibility
+# Talk Slides with [Spectacle](https://formidable.com/open-source/spectacle/)
 
-These slides were built with [Spectacle](https://formidable.com/open-source/spectacle/).
+This is a WIP. I considered using it for a talk and found the process to be too complicated/undocumented. But I'm keeping the repo around for later use.
 
 ## Setup
 
